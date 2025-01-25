@@ -25,7 +25,7 @@
 
 1. Клонируйте репозиторий:
 ```bash
-git clone https://github.com/neuro-fill/AIChatFlutter.git
+git clone https://github.com/kostique23/AIChatFlutter
 cd AIChatFlutter
 ```
 
@@ -51,11 +51,6 @@ flutter pub get
    - Desktop development with C++
    - Windows 10 SDK
    - Visual C++ tools for CMake
-<<<<<<< HEAD
-   
-=======
-
->>>>>>> cccd0d7 (Initial commit)
 2. Включите режим разработчика в Windows:
    - Настройки > Обновление и безопасность > Для разработчиков
    - Включите "Режим разработчика"
