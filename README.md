@@ -111,7 +111,6 @@ AIChatFlutter - это мультиплатформенное приложени
 ## Начало работы
 
 1. Клонируйте репозиторий: git clone https://github.com/kostique23/AIChatFlutter.git
-                           cd AIChatFlutter
 2. Создайте файл `.env` на основе `.env.example`
 3. Добавьте свой API ключ (OpenRouter или VseGPT)
 4. Следуйте инструкциям в [INSTALL.md](INSTALL.md) для установки зависимостей и запуска
