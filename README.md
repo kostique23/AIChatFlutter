@@ -1,6 +1,8 @@
 # AIChatFlutter -  Чат-приложение с ИИ
 
 AIChatFlutter - это мультиплатформенное приложение для общения с искусственным интеллектом, разработанное с использованием Flutter. Приложение поддерживает работу как с OpenRouter.ai, так и с VseGPT.ru, предоставляя гибкие возможности для взаимодействия с различными языковыми моделями.
+- **Ссылка на презентацию:** [AIChatFlutter – Презентация проекта](https://drive.google.com/file/d/1Is0ByMzKlsawgYF48hk4bZXVWU82EpNu/view?usp=drive_link)
+- **Ссылка на видео:** [AIChatFlutter – Видеообзор проекта](https://drive.google.com/file/d/1As1JYJuxp5sNJPDjuxzCi45AZbq6m48-/view?usp=drive_link)
 
 ## Поддержка API
 
